@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+h1{
+   color: rgb(5, 161, 161);
+   font-family:  Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-size: 24px;
+
+}
+
+h3{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+
+h2{
+    color: rgb(5, 161, 161);
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+h4{
+    color: rgb(5, 161, 161);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold
+}
+
+h5{
+    color: rgb(5, 161, 161);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold 
+}
+
+
+.summary-image{
+    width: 230px;
+    float: left; 
+}
+
+.small-images{
+    width: 200px;
+    float: left;
+}
+
+
+.navbar-links{
+    float: right;
+}
+
+.viz-info{
+    background-color: white;
+    padding: 16px;
+    text-align: justify;
+}
+
+
+.navbar-brand {
+    background-color: rgb(5, 161, 161);
+    padding: 6px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#content-container{
+    margin-top: 36px;
+    visibility: visible;
+}
+
+#data-table-container{
+    background-color: white;
+    margin-top: 36px;
+}
+
+.maxtemp_info{
+    background-color: white;
+    padding: 16px;
+    text-align:
+}
+
+.maxtemp-image{
+    width: 700px;
+}
+ .smalltemp-images{
+     width: 250px;
+     height: 200px; 
+ }
+
+ .comparison-images{
+     width: 650px;
+     height: 500px;
+ }
+
+ .footer{
+     background-color: teal;
+     text-align: center;
+     height: 24px;
+     bottom: 0;
+     position: sticky;
+     width: 100%;
+     color: whitesmoke;
+
+ }
